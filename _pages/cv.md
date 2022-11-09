@@ -4,5 +4,5 @@ permalink: /cv/
 title: "CV"
 ---
 
-<a href="_assets/cv.pdf" class="image fit"></a>
+<a href="ant-stephenson.github.io/_assets/cv.pdf" class="image fit"></a>
 type="application/pdf"
