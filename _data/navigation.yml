@@ -1,9 +1,9 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "Bio"
+    url: /bio/
   - title: "Posts"
     url: /posts/
-#   - title: "Research"
-#     url: /research/
+  - title: "Research"
+    url: /research/
 #   - title: "Talks"
 #     url: /talks/
