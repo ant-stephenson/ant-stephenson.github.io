@@ -12,7 +12,7 @@ title: "Research"
 
 # Publications
 
-1. ### Provably Reliable Large-Scale Sampling from Gaussian Processes
+1. #### Provably Reliable Large-Scale Sampling from Gaussian Processes ####
 _Anthony Stephenson, Robert Allison, Edward Pyzer-Knapp_\
 NeurIPS Workshop: Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems
 
