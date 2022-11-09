@@ -73,16 +73,16 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-author:
-  name   : "Anthony Stephenson"
-  avatar : #"/assets/images/tmp.jpg" 
-  bio    : "Statistics PhD student at the University of Bristol."
-  location: "Bristol, UK"
-  links:
+# author:
+#   name   : "Anthony Stephenson"
+#   avatar : #"/assets/images/tmp.jpg" 
+#   bio    : "Statistics PhD student at the University of Bristol."
+#   location: "Bristol, UK"
+#   links:
 
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ant-stephenson"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/ant-stephenson"
 
 footer:
   links:
