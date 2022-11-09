@@ -30,7 +30,7 @@ github_username:  ant-stephenson
 # Build settings
 markdown: kramdown
 #remote_theme: "mmistakes/so-simple-theme@3.2.0"
-theme: minimal
+theme: midnight
 plugins:
   - jekyll-feed
   - jekyll-scholar
