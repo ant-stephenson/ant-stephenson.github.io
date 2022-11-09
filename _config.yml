@@ -48,7 +48,7 @@ paginate_path: /page:num/
 
 include:
   - _pages
-  - _includes
+  #- _includes
   
 # Exclude from processing.
 # The following items will not be processed, by default.
