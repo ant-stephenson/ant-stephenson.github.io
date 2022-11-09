@@ -43,6 +43,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-admin
+  - jekyll-pdf-embed
 
 # Outputting
 permalink: /:categories/:title/
