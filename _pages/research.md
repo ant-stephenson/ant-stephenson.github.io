@@ -14,9 +14,9 @@ title: "Research"
 
 <ol style="font-size: 18pt;"> 
 
-<li> #### Provably Reliable Large-Scale Sampling from Gaussian Processes ####
+  <li> Provably Reliable Large-Scale Sampling from Gaussian Processes </li>
 _Anthony Stephenson, Robert Allison, Edward Pyzer-Knapp_\
-  NeurIPS Workshop: Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems </li>
+  NeurIPS Workshop: Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems 
 
   </ol>
  
