@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Basics of Statistical Learning"
-<!-- date: `r Sys.Date()` -->
 date: 2022-11-22 17:25:00 +0000
 categories: 
 ---
