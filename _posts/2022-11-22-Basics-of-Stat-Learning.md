@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Basics of Statistical Learning"
-date: 
+date: `r Sys.Date()`
 categories: 
 ---
 
