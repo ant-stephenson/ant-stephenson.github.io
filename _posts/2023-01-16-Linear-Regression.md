@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linear Methods of Regression"
+title: "Linear Methods for Regression"
 date: 2023-01-16 10:07:00 +0000
 categories: 
 ---
