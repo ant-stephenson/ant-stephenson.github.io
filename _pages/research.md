@@ -4,6 +4,13 @@ permalink: /research/
 title: "Research"
 ---
 
+ul {
+   list-style: none;
+   margin-left: 0;
+   padding-left: 1em;
+   text-indent: -1em;
+}
+
 # Research Interests
 
 * Scalable Gaussian processes
