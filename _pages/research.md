@@ -4,12 +4,14 @@ permalink: /research/
 title: "Research"
 ---
 
+<style>
 ul {
    list-style: none;
    margin-left: 0;
    padding-left: 1em;
    text-indent: -1em;
 }
+   <\style>
 
 # Research Interests
 
