@@ -15,6 +15,9 @@ ul li li {
     margin-left: 0;
     font-size: 12pt;
 }
+li{
+  margin: 10px 0;
+}
 </style>
 # Publications
 
