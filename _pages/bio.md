@@ -12,7 +12,14 @@ models for football match outcomes. At present I am doing post-graduate research
 on improving scalability of Gaussian Processes at the University of Bristol.
 
 # Research Interests
-[See here.](research.md)
+
+* Scalable Gaussian processes
+  + Synthetic data generation
+  + Nearest Neighbour approximations
+* Uncertainty calibration in regression
+
+
+[Publications.](research.md)
 
 
 # Other Interests
